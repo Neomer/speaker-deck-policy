@@ -1,0 +1,62 @@
+Privacy Policy
+
+Last updated: 28 February 2026
+
+English Version
+1. General Information
+
+This application does not collect, store, or process any personal data from users.
+
+The app operates entirely offline. All data created within the app is stored locally on the user’s device and is not transmitted to any external servers.
+
+2. Data Collection
+
+The application:
+
+Does not require registration
+
+Does not collect personal information
+
+Does not collect device identifiers
+
+Does not access location, camera, microphone, or storage
+
+Does not use analytics services
+
+Does not use advertising SDKs
+
+Does not transmit any data to third parties
+
+3. Data Storage
+
+All user-generated data remains solely on the user’s device.
+The developer does not have access to this data.
+
+4. Third-Party Services
+
+The application does not integrate with third-party services that collect user data.
+
+5. Children’s Privacy
+
+This application is intended for users aged 13 and older.
+It is not directed to children under the age of 13.
+
+The developer does not knowingly collect any personal information from children under 13.
+
+6. User Control
+
+Since all data is stored locally on the device:
+
+Users may delete app data at any time via device settings.
+
+Uninstalling the application removes all stored data.
+
+7. Changes to This Policy
+
+This policy may be updated in the future. Any updates will be reflected on this page.
+
+8. Contact
+
+If you have any questions regarding this Privacy Policy, please contact:
+
+vin.kirill@gmail.com
