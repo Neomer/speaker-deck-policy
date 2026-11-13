@@ -1,0 +1,73 @@
+Speaker Deck for iPhone - Privacy Policy
+
+Last updated: 14 November 2026
+
+This policy explains what data the Speaker Deck app for iPhone ("the app") handles and why.
+
+
+1. Your decks and cards
+
+Everything you create in the app - deck titles, card text, talk and card times, settings - is stored only on your device. The developer has no server and never receives this content. The app does not sync your decks through iCloud.
+
+The app does not require registration and does not show ads.
+
+If iCloud Backup or computer backup is turned on, iOS may include the app's data in your personal device backup. That backup is managed by Apple under your Apple Account; the developer has no access to it.
+
+If you use the backup feature (Premium), the app saves your decks to a file in a place you choose (for example iCloud Drive, Files or AirDrop). The app does not upload this file anywhere; where it goes after that is up to you.
+
+
+2. Analytics
+
+The app uses Google Analytics for Firebase to understand how the app is used, for example how often a presentation or a rehearsal is opened. Firebase may collect:
+
+- app usage events (app opens, sessions, feature usage, in-app purchase events);
+- device and app information (device model, iOS version, app version, language);
+- identifiers: the Firebase app instance ID and the identifier for vendor (IDFV), which is unique to this developer's apps on your device;
+- approximate location derived from your IP address (country or city level).
+
+The app does not access the advertising identifier (IDFA) and does not track you across other companies' apps or websites. For this reason it never asks for tracking permission.
+
+The events the app sends itself contain only a technical deck number. Deck titles and card text are never sent.
+
+This data is used only for analytics. It is not sold and is not used for advertising. It is processed by Google as a service provider. How Google handles this data: https://policies.google.com/technologies/partner-sites
+
+
+3. Purchases
+
+Premium is available as a one-time purchase or as a monthly subscription through the App Store. Payment is handled entirely by Apple; the developer never sees your card or payment details. The app only receives confirmation from the App Store of whether Premium is active.
+
+You can manage or cancel a subscription in Settings > [your name] > Subscriptions.
+
+
+4. Ratings
+
+The app may occasionally show the standard App Store rating window. Your rating and review go directly to Apple; the app does not receive them and does not know whether you left one.
+
+
+5. Device access
+
+The app uses vibration (haptics) for card changes and time signals. It does not access your location, contacts, camera, microphone or photos.
+
+
+6. Children
+
+The app is intended for users aged 13 and older. It is not directed at children under 13, and the developer does not knowingly collect personal data from them.
+
+
+7. Data deletion
+
+Deleting the app removes all your decks and cards from the device.
+
+Analytics data is kept by Google for a limited period and then deleted automatically. To ask a question or request deletion of analytics data related to your device, contact the developer at the address below.
+
+
+8. Changes to this policy
+
+If this policy changes, the updated version will be published at this address with a new date.
+
+
+9. Contact
+
+If you have any questions about this Privacy Policy, please contact:
+
+vin.kirill@gmail.com
