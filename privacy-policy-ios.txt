@@ -1,6 +1,6 @@
 Speaker Deck for iPhone - Privacy Policy
 
-Last updated: 14 November 2026
+Last updated: 19 November 2026
 
 This policy explains what data the Speaker Deck app for iPhone ("the app") handles and why.
 
@@ -32,6 +32,10 @@ The events the app sends itself contain only a technical deck number. Deck title
 This data is used only for analytics. It is not sold and is not used for advertising. It is processed by Google as a service provider. How Google handles this data: https://policies.google.com/technologies/partner-sites
 
 
+Crash reports
+
+If the app crashes or stops responding, Firebase Crashlytics sends a crash report so the developer can find and fix the problem. A report contains the technical details of the error (the place in the app's code where it happened and the app's state at that moment), device and app information (device model, iOS version, app version, free memory and disk space, orientation) and a random Crashlytics installation ID. It may also include the list of recent analytics events described above. Crash reports never contain deck titles or card text. They are processed by Google as a service provider and used only to fix errors.
+
 3. Purchases
 
 Premium is available as a one-time purchase or as a monthly subscription through the App Store. Payment is handled entirely by Apple; the developer never sees your card or payment details. The app only receives confirmation from the App Store of whether Premium is active.
@@ -58,7 +62,7 @@ The app is intended for users aged 13 and older. It is not directed at children 
 
 Deleting the app removes all your decks and cards from the device.
 
-Analytics data is kept by Google for a limited period and then deleted automatically. To ask a question or request deletion of analytics data related to your device, contact the developer at the address below.
+Analytics data and crash reports are kept by Google for a limited period and then deleted automatically. To ask a question or request deletion of analytics data or crash reports related to your device, contact the developer at the address below.
 
 
 8. Changes to this policy
